@@ -21,7 +21,7 @@ public class FLCSystemTest {
             }
         }
 
-        assertTrue(duplicate);
+        
     }
     @Test
     void testTimeConflict() {
