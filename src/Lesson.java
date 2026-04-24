@@ -18,8 +18,6 @@ public class Lesson {
         this.price = price;
     }
 
-    public boolean hasSpace() {
-        return bookings.size() < 4;
     }
 
     public void addBooking(Booking b) { bookings.add(b); }
