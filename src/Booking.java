@@ -13,7 +13,7 @@ public class Booking {
         this.status = Status.BOOKED;
     }
 
-    public int getId() { return id; }
+    
     public Member getMember() { return member; }
     public Lesson getLesson() { return lesson; }
 
