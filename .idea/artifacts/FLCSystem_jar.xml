@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FLCSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FLCSystem_jar</output-path>
+    <root id="archive" name="FLCSystem.jar">
+      <element id="module-output" name="FLCSystem" />
+    </root>
+  </artifact>
+</component>
