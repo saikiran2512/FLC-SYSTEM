@@ -8,7 +8,7 @@ public class Member {
     }
 
     public int getId() {
-        return id;
+        
     }
 
     public String getName() {
