@@ -8,7 +8,7 @@ public class Review {
     }
 
     public int getRating() {
-        return rating;
+        
     }
     public String getComment() {
         return comment;
