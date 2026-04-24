@@ -68,7 +68,7 @@ public class FLCSystem {
         Collections.shuffle(list);
 
         for (int i = 0; i < 10; i++) {
-            members.add(new Member(i + 1, list.get(i)));
+            
         }
     }
 
